@@ -1,2 +1,2 @@
 # Security-checkpoints
-Simulation of a security checkpoint (serious game)
+Netlogo simulation of a security checkpoint (serious game)
